@@ -1,0 +1,46 @@
+Shimano 350 3.66 1
+Daiwa 519 3 1
+Mikado 207 3.96 1
+Jaxon 380 3.5 1
+Madcat 550 3.23 1
+
+Shimano 660 brak 2
+Daiwa 340 brak 2
+Jaxon 130 brak 2
+Quick 479 brak 2
+Tandem 237 brak 2
+
+
+Robaki-1l 25 czerwone 3
+Robaki-1l 23 biale 3
+Mucha 60 czerwona 3
+Wobler 30 zielony 3
+Blystka 25 zlota 3
+Mormyszka 15 srebrna 3
+Guma 7 zolta 3
+
+
+Mikado 9 Staly 4
+Mikado 27 Przelotowy 4
+Expert-202 8 brak 4
+Jaxon 6 Przelotowy 4
+Mikado 17 Waggler 4
+Mikado 3 Zwycowy 4
+
+
+Varivas-150m 49 0.37 5
+Sneck-150m 25 0.4 5
+BerkleyFlex-275m 60 0.3 5
+JBraid-150m 69 0.26 5
+Jaxon-50m 9 0.066 5
+LuckyJohn-50m 30 0.066 5
+
+Kwok 79 brak 6
+Podbierak 129 brak 6
+Wiadro 39 brak 6
+Sito 29 brak 6
+Pokrowiec 59 brak 6
+Piornik 59 brak 6
+Koszula 400 brak 6
+Siedzisko 500 brak 6
+Czapka 69 brak 6
